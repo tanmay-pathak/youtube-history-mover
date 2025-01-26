@@ -1,4 +1,4 @@
-# Mark Watched Script
+# YouTube History Mover
 
 A simplified method to transfer YouTube “watched” history from one account to another.  
 Based on [this Reddit post](https://www.reddit.com/r/youtube/comments/18kd0ce/transfer_youtube_and_youtube_music_history/).
